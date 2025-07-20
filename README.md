@@ -11,7 +11,7 @@
 - [004_for.py](./004_for.py): for 반복문 연습  
 - [005_while.py](./005_while.py): while 반복문 연습  
 - [006_fraud_detector.py](./006_fraud_detector.py): 이상 거래 탐지기 예제
-
+- [007_sales_summary.py](./007_sales_summary.py): 일별 매출 데이터 요약 분석기
 
 ---
 
