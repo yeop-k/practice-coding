@@ -13,6 +13,7 @@
 - [006_fraud_detector.py](./006_fraud_detector.py): 이상 거래 탐지기 예제
 - [007_sales_summary.py](./007_sales_summary.py): 일별 매출 데이터 요약 분석기
 - [008_ar_age_analysis.py](./008_ar_age_analysis.py): 외상매출금 연령대(aging) 분석기
+- [009_sales_vs_purchase.py](./009_sales_vs_purchase.py): 매출-매입 비교 자동화 도구
 
 ---
 
